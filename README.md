@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Henrique Conelheiro de Souza 👋
+Eu sou o gui tenho 11 anos e faço programas 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
 
