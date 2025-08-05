@@ -1,5 +1,7 @@
 Eu sou o gui tenho 11 anos e sou um garoto de programas 👋
 
+I am gay 🏳️‍🌈
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
 
 ![Guilherme Henrique Conelheiro de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehenri456&show_icons=true&theme=tokyonight)
